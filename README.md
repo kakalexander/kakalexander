@@ -22,15 +22,21 @@ I am currently pursuing a degree in Software Engineering and working as a Full S
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madarafchave&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=madarafchave&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madarafchave&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=madarafchave&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🥇 GitHub Contributions
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=kakalexander&show_icons=true&hide_title=true&hide=prs&theme=radical)
+
+## 📈 Total Commits
+![Total Commits](https://github-readme-stats.vercel.app/api/commitss?username=kakalexander&theme=radical)
+
+## 📚 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakalexander&layout=compact&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madarafchave&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kakalexander&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kakalexander&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=kakalexander&icon=0&color=0)](https://visitcount.itsvg.in)
