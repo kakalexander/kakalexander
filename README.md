@@ -22,8 +22,6 @@ I am currently pursuing a degree in Software Engineering and working as a Full S
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-# 📊 GitHub Stats
-
 ## 🥇 GitHub Contributions
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=kakalexander&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
