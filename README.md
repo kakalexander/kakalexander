@@ -25,9 +25,6 @@ I am currently pursuing a degree in Software Engineering and working as a Full S
 ## 🥇 GitHub Contributions
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=kakalexander&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
-## 📈 Total Commits
-![Total Commits](https://github-readme-stats.vercel.app/api/commitss?username=kakalexander&theme=radical)
-
 ## 📚 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakalexander&layout=compact&theme=radical)
 
